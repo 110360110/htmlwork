@@ -1,0 +1,42 @@
+html{
+    background-color: rgb(255, 247, 236);
+}
+
+body{
+    border: 5px solid rgb(255, 225, 154);
+    background-color: rgba(255, 255, 255, 0.6);
+    margin: 30px auto;
+    width: 800px;
+    padding: 50px;
+}
+
+h1{
+    text-align: center;
+    margin: 50px;
+    font-size: 3rem;
+}
+
+.line{
+    border: 2px solid rgb(255, 225, 154);
+    margin-top: 50px;
+}
+
+a{
+    line-height: 30px;
+}
+
+table{
+    border: 2px solid rgb(255, 225, 154);
+    border-collapse: collapse;
+    background-color: white;
+}
+caption{
+    padding: 5px;
+}
+td,th{
+    border: 1px solid rgb(255, 225, 154);
+    padding: 5px 15px;
+}
+th{
+    background-color: rgb(255, 241, 209);
+}
